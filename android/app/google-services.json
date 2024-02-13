@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097318505316",
+    "project_id": "biribinho",
+    "storage_bucket": "biribinho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097318505316:android:17c362e73acc5e407ef871",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBSXOocrnw5e4sVu1OasEifJa9bzSiK7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
